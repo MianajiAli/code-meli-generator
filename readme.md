@@ -34,7 +34,7 @@ This Python script generates valid Iranian national codes (code meli) based on u
 
 The script allows the user to specify the number of codes to generate or generate all possible valid codes. Valid codes are generated for the specified prefixes.
 
-Generated codes are written to a text file named `all_valid_iranian_codes.txt`.
+Generated codes are written to a text file named `all_valid_codes.txt`.
 
 ## Requirements
 
